@@ -1,3 +1,3 @@
 function banana() {
-  return "banana";
+  return "banana banana";
 }
