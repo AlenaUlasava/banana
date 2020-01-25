@@ -1,1 +1,3 @@
-console.log(42);
+function banana() {
+  return "banana";
+}
